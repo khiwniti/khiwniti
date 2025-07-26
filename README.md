@@ -18,11 +18,12 @@
 ```typescript
 const khiw = {
     name: "Khiw Nitithadachot",
-    role: "AI & Full-Stack Developer",
+    role: "AI & Enterprise Solutions Developer",
     location: "🌍 Building from anywhere",
-    passions: ["AI/ML", "Web Development", "Automation", "Innovation"],
-    currentFocus: "Building intelligent systems that make a difference",
-    funFact: "I turn coffee into code and ideas into reality ☕→💻"
+    specialties: ["NVIDIA VSS", "MLOps", "Computer Vision", "Digital Twins"],
+    currentFocus: "AI-powered enterprise platforms & industry solutions",
+    recentWork: ["Construction Analytics", "Physics Simulations", "Healthcare AI"],
+    funFact: "Transforming industries with AI, one algorithm at a time 🤖✨"
 };
 ```
 
@@ -41,13 +42,16 @@ const khiw = {
 ### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-4ECDC4?style=for-the-badge&logo=mlflow&logoColor=white)
 
 </div>
 
@@ -57,39 +61,48 @@ const khiw = {
 
 <div align="center">
 
-### 🍽️ BiteBase Intelligence
-> **AI-Powered Restaurant Discovery Platform**
+### 🏗️ AsphaltTracker-NVIDIA-VSS
+> **AI-Powered Construction Site Analytics**
 > 
-> A comprehensive ecosystem for restaurant discovery with AI agents, geospatial analysis, and intelligent recommendations.
+> Advanced construction site video analytics with NVIDIA VSS integration for AI-powered safety monitoring and real-time insights.
 
-[![BiteBase](https://img.shields.io/badge/🔗_Explore_BiteBase-FF6B6B?style=for-the-badge)](https://github.com/khiwniti/beta-bitebase-app)
+[![AsphaltTracker](https://img.shields.io/badge/🔗_Explore_Project-FF6B6B?style=for-the-badge)](https://github.com/khiwniti/AsphaltTracker-NVIDIA-VSS)
 
 ---
 
-### 🤖 AI Computer Use
-> **Autonomous AI Control System**
+### 🧮 PINN Enterprise Platform
+> **AI-Powered Physics Simulations**
 > 
-> An integrated AI control system combining local Windows automation with remote sandbox capabilities.
+> Complete serverless architecture with RAG-powered code generation, 3D visualization, and global edge deployment for physics simulations.
 
-[![AI Computer Use](https://img.shields.io/badge/🔗_View_Project-4ECDC4?style=for-the-badge)](https://github.com/khiwniti/ai-computer-use)
+[![PINN Platform](https://img.shields.io/badge/🔗_View_Platform-4ECDC4?style=for-the-badge)](https://github.com/khiwniti/pinn-enterprise-platform)
 
 ---
 
-### 🧠 Kaggle LLM API
-> **Comprehensive LLM Solution**
+### 🍽️ BiteBase Ecosystem
+> **AI Restaurant Discovery Platform**
 > 
-> Running Ollama/vLLM API servers in Kaggle notebooks with OpenAI-compatible endpoints.
+> Comprehensive restaurant discovery platform with AI agents, backend API, and intelligent recommendations system.
 
-[![Kaggle LLM](https://img.shields.io/badge/🔗_Check_It_Out-45B7D1?style=for-the-badge)](https://github.com/khiwniti/kaggle-llm-api)
+[![BiteBase](https://img.shields.io/badge/🔗_Explore_BiteBase-45B7D1?style=for-the-badge)](https://github.com/khiwniti/beta-bitebase-app)
 
 ---
 
-### 🎨 FirstPage Template
-> **Stunning Landing Page Template**
+### 🤖 Simulation-Based Digital Twin
+> **MLOps Digital Twin Platform**
 > 
-> Your gateway to the web - a modern, responsive first page template with performance optimization.
+> Integrated MLOps platform for predictive asphalt tank control with NVIDIA PhysicsNeMo and advanced analytics.
 
-[![FirstPage](https://img.shields.io/badge/🔗_See_Demo-96CEB4?style=for-the-badge)](https://github.com/khiwniti/firstpage)
+[![Digital Twin](https://img.shields.io/badge/🔗_Check_Platform-96CEB4?style=for-the-badge)](https://github.com/khiwniti/simulation-based-digital-twin)
+
+---
+
+### 🩸 Bloodplusfight-TH Chatbot
+> **Thai Healthcare Assistant**
+> 
+> Advanced chatbot assistant for Thai healthcare services with intelligent conversation capabilities.
+
+[![Chatbot](https://img.shields.io/badge/🔗_View_Assistant-FF9500?style=for-the-badge)](https://github.com/khiwniti/Bloodplusfight-TH-chatbot-assistant)
 
 </div>
 
@@ -130,17 +143,20 @@ const khiw = {
 mindmap
   root((Khiw's Focus))
     AI & ML
-      LLM Integration
+      NVIDIA VSS Integration
       Computer Vision
-      Automation
-    Web Development
-      Full-Stack Apps
-      Modern Frameworks
-      Performance Optimization
-    Innovation
-      Open Source
-      Problem Solving
-      Community Building
+      Physics Simulations
+      Digital Twin Systems
+    Enterprise Platforms
+      MLOps Pipelines
+      Serverless Architecture
+      RAG Systems
+      3D Visualization
+    Industry Solutions
+      Construction Analytics
+      Healthcare Chatbots
+      Restaurant Intelligence
+      SEO Automation
 ```
 
 </div>
